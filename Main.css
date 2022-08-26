@@ -45,6 +45,7 @@ body {
     background-image: linear-gradient(60deg, rgb(111, 107, 9), rgb(56, 134, 224));
     -webkit-background-clip: text;
     -moz-background-clip: text;
+    background-clip: inherit;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
 }
